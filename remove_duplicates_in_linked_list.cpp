@@ -25,6 +25,7 @@ public:
             while(temp1->next!=NULL)
             {
                 temp1=temp1->next;
+                
             }
             temp1->next =temp;
         }
